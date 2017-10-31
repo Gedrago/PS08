@@ -85,7 +85,7 @@ ggsave(filename="meron_gedrago.png", width=16, height = 9)
 # -k: number of neighbors to consider
 # -p: number of predictors used? In this case p is fixed at 3
 
-#Big-O runtime complexity : O(n*k)
+#Big-O runtime complexity : O(n/K)
 
 
 
